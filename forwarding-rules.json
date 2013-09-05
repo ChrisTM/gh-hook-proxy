@@ -1,0 +1,9 @@
+{
+    "mitsuhiko/flask": [
+        "http://dashboard.example.com/gh-hook",
+        "http://dev-dashboard.example.com/gh-hook"
+    ],
+    "kennethreitz/requests": [
+        "http://ci.example.com/gh-hook"
+    ]
+}
